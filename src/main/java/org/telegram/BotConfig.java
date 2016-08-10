@@ -8,6 +8,6 @@ package org.telegram;
  */
 public class BotConfig {
     
-    public static final String BMICALC_TOKEN = "242602901:AAEHRPC6joDoS-jl2IDeoEA_iSxNSapgmhg";
+    public static final String BMICALC_TOKEN = "<token>";
     public static final String BMICALC_USER = "BMI_CalcBot";
 }
